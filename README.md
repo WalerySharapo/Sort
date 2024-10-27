@@ -1,1 +1,1 @@
-Example inserrtion sort
+Example insertion sort
